@@ -1,0 +1,90 @@
+body {font-family: arial,helvetica,sans-serif; font-size: 12px;}
+td {font-family:  arial,helvetica,sans-serif; font-size: 12px;}
+
+p {font-family: arial,helvetica,sans-serif; font-size: 12px;}
+
+b {font-family: arial,helvetica,sans-serif; font-weight: bold;}
+i {font-family: arial,helvetica,sans-serif; font-style: italic;}
+li {font-family: arial,helvetica,sans-serif;}
+ul {font-family: arial,helvetica,sans-serif;}
+ol {font-family: arial,helvetica,sans-serif;}
+h1 {font-family: arial,helvetica,sans-serif; font-size: 21px;}
+h2 {font-family: arial,helvetica,sans-serif; font-size: 19px;}
+h3 {font-family: arial,helvetica,sans-serif; font-size: 18px;}
+h4 {font-family: arial,helvetica,sans-serif; font-size: 16px;}
+h5 {font-family: arial,helvetica,sans-serif; font-size: 15px;}
+h6 {font-family: arial,helvetica,sans-serif; font-size: 14px;}
+
+
+input {font-family: arial,helvetica,sans-serif; font-size: 12px;}
+select {font-family: arial,helvetica,sans-serif; font-size: 12px;}
+textarea {font-family:  arial,helvetica,sans-serif; font-size: 12px;}
+
+.smallest {font-family: arial,helvetica,sans-serif; font-size: 10px;}
+.smaller {font-family: arial,helvetica,sans-serif; font-size: 11px;}
+.smwhite {font-family: arial,helvetica,sans-serif; font-size: 12px; color: #FFFFFF;}
+.normal {font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #000000;}
+.larger {font-family: arial,helvetica,sans-serif; font-size: 14px; color: #000000;}
+.largest {font-family: arial,helvetica,sans-serif; font-size: 16px; color: #000000;}
+
+
+/* SPECIFIC CLASSES PER WEBSITE */
+
+.copyright {font-family: arial,helvetica,sans-serif; font-size: 11px; line-height: 150%;}
+.nm {line-height: 145%;}
+
+
+a {font-family: arial,helvetica,sans-serif; text-decoration: underline; color: #184284;}
+a:link {color: #003399;}
+a:active {color: #184284;}
+a:visited {color: #184284;}
+a:hover {color: #FF0000;}
+
+a.textnav {font-family: arial,helvetica,sans-serif; font-size: 11px; text-decoration: none; color: #000000;}
+a.textnav:link {color: #000000; text-decoration: none;}
+a.textnav:active {color: #000000; text-decoration: none;}
+a.textnav:visited {color: #000000; text-decoration: none;}
+a.textnav:hover {color: #000000; text-decoration: underline;}
+
+a.newmusic {font-family: arial,helvetica,sans-serif; font-size: 11px; color: #666699;}
+a.newmusic:link {color: #666699;}
+a.newmusic:active {color: #666699;}
+a.newmusic:visited {color: #666699;}
+a.newmusic:hover {color: #666699; text-decoration: none;}
+.musictitle {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FF0000}
+.smallestred { font-family: arial, helvetica, sans-serif; font-size: 10px; ; color: #FF0000}
+.errortext {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FF0000}
+.smallerred {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #FF0000}
+.normalred { font-family: arial, helvetica, sans-serif; font-size: 12px; color: #FF0000; }
+.latestnewsheadline { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FF0000; }
+.normalwhite {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; font-weight: normal}
+.large {  font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold}
+.whitetext {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF}
+.normalgreen {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #006633}
+.largerred {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #FF0000}
+.normalblue {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #003399}
+.textbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+.largergreen {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #006600;
+}
+.largestblue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #330099;
+}
+.smallestwhite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.messageboard {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+}
